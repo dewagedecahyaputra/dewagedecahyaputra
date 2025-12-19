@@ -45,9 +45,6 @@ This GitHub profile contains my learning documentation, experiments, and academi
 - **villa-booking-restapi-java**  
   Java-based REST API for villa booking and reservation management (without framework).
 
-- **apotek-management-system**  
-  Database design project including ERD, PDM, SQL queries, triggers, and procedures.
-
 - **build-it**  
   Basic programming exercises and problem-solving practice from HackerRank.
 
